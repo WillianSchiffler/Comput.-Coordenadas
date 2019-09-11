@@ -1,0 +1,3 @@
+Trabalho de Visão Computacional de 2018.2;
+Feito por: Willian S. Zamprogno
+As funções retornam o que é pedido no pdf.
